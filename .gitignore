@@ -1,0 +1,8 @@
+*
+!*/
+# Thats it!!
+# now use !<pattern> to include anything using the same rules as gitignore
+
+!.gitignore
+!README.md
+!LICENSE
